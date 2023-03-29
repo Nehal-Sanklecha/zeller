@@ -5,6 +5,8 @@ Start a mock server
 npm start
 and 
 Start React native app in ios or android device
+npx react-native run-ios
+
 
 Recording:
 
